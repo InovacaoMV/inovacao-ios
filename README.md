@@ -10,11 +10,6 @@ Serão consideradas funcionalidades completas se:</br>
 
 Serão considerados bônus:</br>
 - Uso de padrões de projeto </br>
-- Uso do Kotlin </br>
-- Uso do Volley ou Retrofit </br>
-- Uso do GSON </br>
-- Uso do Archtecture Components </br>
-- Uso do Recycler View </br>
 
 
 ## DESAFIO
